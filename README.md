@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salmern
+- 👋 Hi, I’m salmern
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning blockchain technology
 - 💞️ I’m looking to collaborate on building a strong IT firm
