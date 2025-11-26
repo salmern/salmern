@@ -1,6 +1,9 @@
-# 👋🏽 Hi, I'm Salman
+👋🏽 Hi, I'm Salman
 
-Software developer | Fintech & Web3 Enthusiast | Builder at heart
+Software Developer | Rust & Web3 Engineer |  Builder at heart
+
+I build reliable backend systems, scalable Web3 products, and automation tools.
+Focused on clean architecture, security, and delivering real value through code.
   
 
 
