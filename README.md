@@ -1,16 +1,29 @@
 # 👋🏽 Hi, I'm Salman
 
-**Software Engineer | Backend & Full-Stack | Fintech | Web3**
+**Senior Software Engineer | Backend & Full-Stack Engineering | Forward-Deployed Engineering**
 
-I’m a software engineer with 6+ years of experience building and maintaining production systems across fintech, government platforms, and business applications.
+I’m a software engineer with 6+ years of experience building and improving production systems across fintech, public-sector platforms, and business applications.
 
-I enjoy turning complex problems into reliable, scalable software — from high-performance backend services and APIs to full-stack applications, payment infrastructure, and Web3 protocols.
+I work across the engineering lifecycle, from understanding business and technical requirements to designing systems, building APIs and full-stack applications, diagnosing complex issues, and deploying reliable solutions to production.
 
-**Currently exploring:** AI automation, workflow systems, n8n, AI-powered applications, and developer tooling.
+My focus is on backend engineering, system performance, transaction processing, full-stack development, and solving problems that don't always have straightforward solutions. I also enjoy working closely with teams and stakeholders to turn real-world operational challenges into practical, dependable software.
 
-**What I care about:** Clean architecture · Performance · Security · Reliability · Practical solutions
+I'm particularly interested in **forward-deployed engineering**, where strong software engineering meets hands-on problem-solving, direct collaboration with customers, and ownership of solutions in real-world environments.
 
-I build software that solves real problems, scales with demand, and delivers value.
+### What I Focus On
+
+- **Backend Engineering:** APIs, distributed systems, database design, concurrency, and transaction processing.
+- **Full-Stack Development:** Building end-to-end applications, from backend services and integrations to responsive user interfaces.
+- **System Reliability:** Performance optimization, failure handling, debugging, testing, and production readiness.
+- **Systems Integration:** Connecting services, business platforms, third-party APIs, and operational workflows.
+- **Forward-Deployed Engineering:** Understanding customer problems, translating requirements into working systems, and delivering solutions that hold up in production.
+- **AI & Automation:** Building AI-powered applications, agents, and workflow automation that solve practical problems.
+
+### My Approach
+
+Understand the problem. Design the solution. Build it, test it, deploy it, and make sure it works in the real world.
+
+I value clear engineering decisions, maintainable systems, measurable improvements, and software that solves the right problems.
 
 
 <!---
